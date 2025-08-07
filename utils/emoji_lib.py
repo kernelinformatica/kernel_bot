@@ -20,7 +20,8 @@ emojis = {
         "usuario": "👤",
         "grupo": "👥",
         "admin": "🛡️",
-        "dev": "🧑‍💻"
+        "dev": "🧑‍💻",
+        "ok": "👌",
     },
     "documentos": {
         "archivo": "📄",
